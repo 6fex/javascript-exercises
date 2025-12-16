@@ -25,7 +25,7 @@ const factorial = function(a) {
     };
     return fac;
 };
-console.log(sum([7, 11]));
+
 // Do not edit below this line
 module.exports = {
   add,
